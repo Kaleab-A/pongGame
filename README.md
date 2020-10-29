@@ -12,9 +12,13 @@ If python not downloaded, download from [Python.org](https://www.python.org/down
 
 To set to enviroment variable, follow steps from [here](https://geek-university.com/python/add-python-to-the-windows-path/)
 
-### To install pygame run this on command line:
+### To install pygame, run this on command line:
 > py -m pip install -U pygame --user
 
 ## How to run?
 > python3 pong_pygame.py
+
+
+
+
 
